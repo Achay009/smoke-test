@@ -1,8 +1,3 @@
-Solution: Rollback
-Play Video
-Your config.yml should look something like this:
-
-version: 2.1
 
 commands:
   destroy_environment:
