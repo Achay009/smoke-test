@@ -1,7 +1,7 @@
 Parameters:
-NAME:
-  Type: String
-  Default: Achay-bucket
+  NAME:
+    Type: String
+    Default: Achay-bucket
 Resources:
   WebsiteBucket:
     Type: AWS::S3::Bucket
